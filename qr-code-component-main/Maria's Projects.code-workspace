@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Tailwind"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Maria's Projects"
+	}
+}
